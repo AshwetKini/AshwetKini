@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [sapnaonline.com](https://github.com/AshwetKini/sapnaonline.com.git)
 
-- 🌱 I’m currently learning **Java,Python**
+- 🌱 I’m currently learning **Javascript,Java,Python**
 
 - 💬 Ask me about **Selenium using JAVA,TESTCASES**
 
