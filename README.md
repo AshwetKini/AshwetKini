@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwetkini&label=Profile%20views&color=0e75b6&style=flat" alt="ashwetkini" /> </p>
 
-- 🔭 I’m currently working on [sapnaonline.com](https://github.com/AshwetKini/sapnaonline.com.git)
+- 🔭 I’m currently working on [TruSpirit] app
 
-- 🌱 I’m currently learning **Javascript,Java,Python**
+- 🌱 I’m currently using **Kotlin,NestJs,Javascript,Typescript,MongoDb,Aws**
 
-- 💬 Ask me about **Selenium using JAVA,TESTCASES,html,css,js,php**
+- 💬 Ask me about **Android,Selenium using JAVA,TESTCASES,html,css,js,Ts**
 
 - 📫 How to reach me **ashukini3@gmail.com**
 
