@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashwet Kini</h1>
 <h3 align="center">A passionate full stack developer and  Software Tester </h3>
+<h3 align="center">Portfolio: https://ashwet3dportfolio.netlify.app/ </h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47stdyftgvc1nqck2mi8ir74ldv0iu5oymlsxrx38a&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
