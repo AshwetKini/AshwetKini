@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Hotel Management] app
 
-- 🌱 I’m currently using **Kotlin,NestJs,Javascript,Typescript,MongoDb,Aws**
+- 🌱 I’m currently using **Next.Js,React Native,Kotlin,NestJs,Javascript,Typescript,MongoDb,Aws**
 
-- 💬 Ask me about **Android,Nestjs,MongoDb,Aws,Firebase,html,css,Typescript,Selenium using JAVA,TESTCASES**
+- 💬 Ask me about **Android,Nestjs,MongoDb,Aws,Firebase,NextJs,React Native,Typescript,Selenium using JAVA,TESTCASES**
 
 - 📫 How to reach me **ashukini3@gmail.com**
 
