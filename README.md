@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwetkini&label=Profile%20views&color=0e75b6&style=flat" alt="ashwetkini" /> </p>
 
-- 🔭 I’m currently working on [Hotel Management] app
+- 🔭 I’m currently working on www.utsavimpex.com website and app.
 
 - 🌱 I’m currently using **Next.Js,React Native,Kotlin,NestJs,Javascript,Typescript,MongoDb,Aws**
 
